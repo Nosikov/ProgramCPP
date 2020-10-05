@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\U1\programing\ProgramCPP\cpp005\cpp005\main.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  cpp005.vcxproj -> C:\Users\U1\programing\ProgramCPP\cpp005\Debug\cpp005.exe
