@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\U1\programing\ProgramCPP\cpp004-FirstProgram\cpp004-FirstProgram\main.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  cpp004-FirstProgram.vcxproj -> C:\Users\U1\programing\ProgramCPP\cpp004-FirstProgram\Debug\cpp004-FirstProgram.exe
