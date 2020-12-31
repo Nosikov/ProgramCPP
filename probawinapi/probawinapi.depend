@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602908128 source:c:\users\u1\programing\programcpp\probawinapi\main.cpp
+	<windows.h>
+	<windowsx.h>
+
